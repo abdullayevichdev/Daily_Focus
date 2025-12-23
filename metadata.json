@@ -1,0 +1,7 @@
+{
+  "name": "DailyFocus - AI Task Planner",
+  "description": "A professional, offline-first task planner with precise scheduling, browser notifications, and AI-powered task breakdown.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
